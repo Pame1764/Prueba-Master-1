@@ -1,0 +1,17 @@
+{
+  "name": "prueba-master-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/validacionPrecio.js",
+  "scripts": {
+    "test": "node src/validacionPrecio.js",
+    "lint": "echo \"No lint script\"",
+    "build": "echo \"No build script\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
